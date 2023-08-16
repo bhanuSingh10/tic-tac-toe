@@ -7,3 +7,19 @@
     justify-content: space-between;
     align-items: center;
 }
+.turn-highlight{
+    color: aliceblue;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.reset-button{
+    padding: 10px 20px;
+    font-size: 15px;
+    font-weight: 500;
+    border: none;
+    color: rgb(11, 92, 65);
+    background-color: rgb(204, 243, 230);
+    border-radius: 5px;
+}
+.reset-button:hover{
+ background-color: rgb(157, 160, 162);
+}
